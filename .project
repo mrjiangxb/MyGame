@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MyGame01</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/ball.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JAVA/%E7%B4%A0%E6%9D%90/ball.png</locationURI>
+		</link>
+		<link>
+			<name>src/images/bg.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JAVA/%E7%B4%A0%E6%9D%90/bg.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/images/plane.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JAVA/%E7%B4%A0%E6%9D%90/plane.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
